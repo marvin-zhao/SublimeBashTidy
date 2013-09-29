@@ -1,0 +1,40 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "PerlTidy",
+            "description": "perltidy/Perl::Tidy plugin - A Perl script indenter and reformatter.",
+            "author": "vifo",
+            "homepage": "https://github.com/vifo/SublimePerlTidy",
+            "last_modified": "2013-05-31 20:00:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "0.4.0",
+                        "url": "https://nodeload.github.com/vifo/SublimePerlTidy/zip/v0.4.0"
+                    },
+                    {
+                        "version": "0.3.0",
+                        "url": "https://nodeload.github.com/vifo/SublimePerlTidy/zip/v0.3.0"
+                    },
+                    {
+                        "version": "0.2.1",
+                        "url": "https://nodeload.github.com/vifo/SublimePerlTidy/zip/v0.2.1"
+                    },
+                    {
+                        "version": "0.2.0",
+                        "url": "https://nodeload.github.com/vifo/SublimePerlTidy/zip/v0.2.0"
+                    },
+                    {
+                        "version": "0.1.0",
+                        "url": "https://nodeload.github.com/vifo/SublimePerlTidy/zip/v0.1.0"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "url": "https://nodeload.github.com/vifo/SublimePerlTidy/zip/v0.0.1"
+                    }
+                ]
+            }
+        }
+    ]
+}
