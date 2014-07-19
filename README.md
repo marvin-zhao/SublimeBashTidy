@@ -1,4 +1,4 @@
 SublimeBashTidy
 ===============
 
-bash beautify for Sublime Text 2
+bash beautify for Sublime Text 3
