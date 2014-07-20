@@ -1,6 +1,4 @@
-[
-    {
-        "keys": ["super+shift+t"],
-        "command": "bashtidy"
-    }
-]
+[{
+    "keys": ["ctrl+alt+shift+t"],
+    "command": "bashtidy"
+}]
