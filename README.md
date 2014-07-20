@@ -2,6 +2,7 @@
 ==================================
 
 bash beautify for Sublime Text 3
+[![Build Status](https://travis-ci.org/joysboy/SublimeBashTidy.png)](https://travis-ci.org/joysboy/SublimeBashTidy)
 
 ## About
 --------
