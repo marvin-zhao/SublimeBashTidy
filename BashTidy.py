@@ -114,12 +114,12 @@ class BashtidyCommand(sublime_plugin.TextCommand):
         self.tab_size = 4
 
         if self.view.sel()[0].empty():
-            xmlRegion = sublime.Region(0, self.view.size())
+            bashRegion = sublime.Region(0, self.view.size())
         else:
-            xmlRegion = self.view.sel()[0]
+            bashRegion = self.view.sel()[0]
 
         result = self.beautify_string(
-            self.view.substr(xmlRegion))
+            self.view.substr(bashRegion))
 
         self.view.replace(
-            edit, xmlRegion, result.replace("\r", ""))
+            edit, bashRegion, result.replace("\r", ""))
